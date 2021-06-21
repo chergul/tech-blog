@@ -9,7 +9,7 @@ git clone https://github.com/chergul/tech-blog.git
 There are no tests for this application.
 ​
 ​
-## Video for the app
+## Screenshots for the app
 ​
 1-Login or sign up
 ![Screenshot](./Assets/ss1.png)
