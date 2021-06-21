@@ -91,13 +91,14 @@
   }
   
   header {
-    background-color: lightslategray;
+    background-color: rgb(162, 114, 167);
     border-bottom: 1px solid #ccc;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 1%;
     font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
   header h1 {
