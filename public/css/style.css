@@ -65,7 +65,7 @@
   
   textarea:focus, input:focus {
     outline: none;
-    border: 1px solid #3486eb;
+    border: 1px solid #e3e6eb;
   }
   
   textarea {
@@ -138,11 +138,12 @@
   }
   
   .post {
-    background-color: lightskyblue;
+    background-color: rgb(162, 114, 167);
     margin-bottom: 2%;
     line-height: 150%;
     border-color: black;
     border: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
   .post-head {  
